@@ -1,0 +1,54 @@
+Date 21 july 2022
+
+First of all I was too lucky to have that interviewer, she was too nice and even she didn't wanted to reject she had 15years of industrial experience.
+(questions are not framed in sequence.
+she asked only one DSA question i did it in only 7 minutes . interview lasted for 40 min rather it was of 1 hr.)
+
+project explaination.
+why used specifically this fliters(Deep Learning based project) instead of other available options.
+
+static variable and static function and little bit insites.
+
+I am indian -> indian am I(dsa question to code only write function)
+
+what kind of errors have to came across while coding frequently.
+
+do you know tree ? how many types? do you know AVL tree? tell something 
+
+if you have to choose  to  join which domain ? c++ developer or DL/ML 
+
+tell the approach ? want to develop one application that displays the 
+applications that you use most.  --- will train model that reads
+keeping in mind the time and most-frequently used constraints.
+
+segmentaton fault occurs when? and conditions  and how to even resolve them.
+
+rate yourself in python. 
+
+language you would prefer -- c++ ? what about java --- totally refused 
+
+how many rounds you have till now.--> attempted 2 round  1st coding with 2 tree questions
+   and other was SW advanced test combined of DP question(off campus )
+
+which sorting you like most ? told merge sort --- just about(theory).
+
+heard about binary search and insertion sort? -- told working and TC of both which to prefer over other
+
+types of allocations you know...just names 
+
+types of scheduling :  all types told(just names )
+
+polymorpism and types... how inheritence and polymorphism are different as well as how they are interrelated
+
+
+
+I asked:  
+	on what domains is samsung is currently working?
+	your experinces with samsung.
+	feedback for myself and where i can improve
+
+
+
+
+
+
